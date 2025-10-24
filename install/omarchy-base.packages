@@ -1,8 +1,6 @@
 # Omarchy core package list installed via install/packaging/base.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
 aether
 alacritty
 asdcontrol
@@ -38,7 +36,6 @@ elephant-websearch
 evince
 expac
 eza
-fastfetch
 fcitx5
 fcitx5-gtk
 fcitx5-qt
@@ -51,7 +48,6 @@ gnome-calculator
 gnome-keyring
 gnome-themes-extra
 grim
-gpu-screen-recorder
 gum
 gvfs-mtp
 gvfs-nfs
@@ -62,7 +58,6 @@ hyprland-qtutils
 hyprlock
 hyprpicker
 hyprsunset
-imagemagick
 impala
 imv
 inetutils
@@ -86,7 +81,7 @@ man
 mariadb-libs
 mise
 mpv
-nautilus
+thunar
 gnome-disk-utility
 noto-fonts
 noto-fonts-cjk
@@ -113,7 +108,6 @@ qt5-wayland
 ripgrep
 satty
 sddm
-signal-desktop
 slurp
 spotify
 starship
